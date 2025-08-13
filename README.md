@@ -109,6 +109,6 @@ smart-switchboard/
 *   Rahul   – Mechanical Engineering | CAD & fan speed regulation Logic & UI Devlopment
 *   Susmith   – Mechanical Engineering | CAD Design
 *   Jay Surya   – Smart Manufacturing Engineering | Assembly of components
-*   Punneeth   – ECE | Circuitry, sensor integration, and helped combine Arduino code with fan speed control
+*   Punneeth   – ECE | Circuitry, sensor integration, and contributed for firmware devlopment
 *   Jayenth   – ECE | Firmware and Communication
 
